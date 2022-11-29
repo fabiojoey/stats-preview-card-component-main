@@ -1,6 +1,6 @@
 # Frontend Mentor - stats-preview-card-component-main
 
-![Design preview for the stats-preview-card-component-main coding challenge]()
+![Design preview for the stats-preview-card-component-main coding challenge](./design/EditMyImg.jpg)
 
 ## Welcome! 👋
 
